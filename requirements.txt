@@ -1,6 +1,2 @@
-flask
-schedule
-pycryptodome
+python-telegram-bot
 requests
-urllib3
-protobuf
